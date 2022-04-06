@@ -21,4 +21,4 @@ class Main {
 
         System.out.println((dp[n][0] + dp[n][1] + dp[n][2]) % 9901);
     }
-}`
+}
